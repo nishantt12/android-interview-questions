@@ -276,7 +276,7 @@
                 }
                 
                 public void setEmail(final String email) {
-                    this.email = email;
+                    this.email = email;s
                 }
             }
         ```
